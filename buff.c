@@ -9,7 +9,7 @@ int main() {
     printf("Enter a string: ");
 
     // Read the input string from the user
-    scanf("%s", str2); 
+    scanf("%4s", str2); 
 
     // Copy the input string into str1
     strcpy(str1, str2); 
